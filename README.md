@@ -1,4 +1,4 @@
-# ARCHIVE-ANNOTATIONS
+# archive-annotations
 The archiving of all of my notes regarding my studies leaning towards introduction to Data Analytics (SQL, Python, POWERBI) and the introduction to C programming, plus the following program:
 
 1. Algorithms: characterization and basic structures
